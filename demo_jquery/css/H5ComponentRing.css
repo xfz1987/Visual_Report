@@ -1,0 +1,4 @@
+/* 环图组件样式 */
+.h5_component_ring{}
+.h5_component_ring .mask{width: 100%;height: 100%;position: absolute;left: 0;top: 0;z-index: 90;background-color: #fff;border-radius: 50%;-webkit-transform:scale(.8);transform:scale(.8);}
+.h5_component_ring .text{font-size:12px;width: 100%;top: 40%;-webkit-opacity: 0;opacity: 0;-webkit-transition:all 1s;transition:all 1s;}
