@@ -33,7 +33,6 @@
 >   HTML+CSS: 柱图Bar-垂直柱图Bar_v、散点图Point
 >   Canvas: 折线图Polyline、雷达图Radar、饼图pie-环图ring
 #### 5.开发步骤
-目录tree图
 ##### 验证页切换，组件切换:入场、出场动画 - demo_jquery/test/test-valid.html
 ##### JS对象规划: 
 
