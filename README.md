@@ -84,3 +84,4 @@ loading
 
 
 ### vue方式实现
+**查看demo_vue**
